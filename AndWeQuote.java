@@ -1,4 +1,4 @@
 public interface AndWeQuote
 {
-	public void quotient(float x, float y);
+	public float quotient(float x, float y);
 }
