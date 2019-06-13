@@ -23,3 +23,4 @@ public class WeRunning
 		WeRunning app = new WeRunning();
 	}
 }
+//i learned how to use lambda notation and how it can work with interfaces
