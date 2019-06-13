@@ -23,4 +23,5 @@ public class WeRunning
 		WeRunning app = new WeRunning();
 	}
 }
-//i learned how to use lambda notation and how it can work with interfaces
+//i learned how to use lambda notation and how it can work with interfaces. I also learned how to use the command prompt - kush
+// i learned the difference between git kraken and git hub and before starting this assignment i was not familiar with git kraken at all. I learned how to use lambda notation in my code and this assignment was good review for interface construction and implementation. -arjun
